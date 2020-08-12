@@ -1,0 +1,64 @@
+Category,Title, Location
+"<script type=""application/ld+json"">
+[
+    {
+        ""@context"": ""http://schema.org"",
+        ""@type"": ""LocalBusiness"",
+        ""url"": ""http://www.brandonarchitects.com"",
+        ""name"": ""Brandon Architects, Inc."",
+        ""mainEntityOfPage"": ""True"",
+        ""image"": ""https://st.hzcdn.com/simgs/346342200f692649_3-3205/_.jpg"",
+        ""telephone"": ""(714) 754-4040"",
+        ""address"": {
+            ""@type"": ""PostalAddress"",
+            ""streetAddress"": ""151 Kalmus Drive"",
+            ""addressLocality"": ""Costa Mesa"",
+            ""addressRegion"": ""CA"",
+            ""postalCode"": ""92626"",
+            ""addressCountry"": ""United States""
+        },
+        ""aggregateRating"": {
+            ""@type"": ""AggregateRating"",
+            ""ratingValue"": 5,
+            ""reviewCount"": ""43""
+        },
+        ""@id"": ""https://www.houzz.com/professionals/architects-and-building-designers/brandon-architects-inc-pfvwus-pf~1291854741"",
+        ""geo"": {
+            ""@type"": ""GeoCoordinates"",
+            ""latitude"": ""33.6801"",
+            ""longitude"": ""-117.9085""
+        },
+        ""description"": ""Brandon Architects, Inc. is a boutique full-service architectural design firm specializing in high-end custom residential, multi-family, small commercial, and hospitality building types. Our focus is on creating successful projects by providing the very best in architectural service and design. We take a holistic approach with each project, evaluating the needs of the individual client with the constraints of a site to determine appropriate solutions. Our services ensure that each process is unique and that client expectations are exceeded. Great design is achieved through a unique creative process and implemented using today\u2019s latest 3D/BIM project execution tools. In addition, our smart design process explores available sustainable techniques and technologies to present green and socially responsible solutions in an affordable manner."",
+        ""areaServed"": {
+            ""@type"": ""place"",
+            ""name"": ""Costa Mesa""
+        },
+        ""hasOfferCatalog"": {
+            ""@type"": ""OfferCatalog"",
+            ""name"": ""Architects & Building Designers, Building Designers and Drafters""
+        }
+    },
+    {
+        ""@context"": ""http://schema.org"",
+        ""@type"": ""BreadcrumbList"",
+        ""itemListElement"": [
+            {
+                ""@type"": ""ListItem"",
+                ""position"": 1,
+                ""item"": {
+                    ""@id"": ""https://www.houzz.com/professionals/c/Costa-Mesa--CA"",
+                    ""name"": ""Home Improvement Professionals""
+                }
+            },
+            {
+                ""@type"": ""ListItem"",
+                ""position"": 2,
+                ""item"": {
+                    ""@id"": ""https://www.houzz.com/professionals/architect/c/Costa-Mesa--CA"",
+                    ""name"": ""Architects and Building Designers""
+                }
+            }
+        ]
+    }
+]
+</script>"
